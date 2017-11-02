@@ -1,0 +1,5 @@
+2,3
+Japan,Korea
+Finland,Korea,Japan
+France,France,Japan
+France,Germany,Korea

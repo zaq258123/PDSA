@@ -1,0 +1,5 @@
+4,3
+Hearts_10,Hearts_9,Hearts_Q,Hearts_J,Hearts_8
+Spades_A,Hearts_K,Hearts_10,Diamonds_4,Clubs_4
+Diamonds_J,Diamonds_K,Diamonds_Q,Diamonds_10,Clubs_9
+Clubs_A,Hearts_8,Diamonds_Q,Diamonds_10,Clubs_2
